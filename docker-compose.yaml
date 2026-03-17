@@ -113,7 +113,7 @@ services:
       - minio_data:/data
     networks:
       - worklenz-backend
-    healthcheck:pricib
+    healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
       interval: 30s
       timeout: 20s
