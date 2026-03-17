@@ -1,0 +1,32 @@
+{
+  "logoAlt": "Logotipo SasthoTech",
+  "home": "Início",
+  "projects": "Projetos",
+  "schedule": "Agendamento",
+  "reporting": "Relatórios",
+  "clients": "Clientes",
+  "teams": "Equipes",
+  "labels": "Rótulos",
+  "jobTitles": "Títulos de Emprego",
+  "upgradePlan": "Plano de Upgrade",
+  "upgradePlanTooltip": "Plano de Upgrade",
+  "invite": "Convidar",
+  "inviteTooltip": "Convidar membros da equipe a se juntar",
+  "switchTeamTooltip": "Trocar equipe",
+  "help": "Ajuda",
+  "notificationTooltip": "Ver notificações",
+  "profileTooltip": "Ver perfil",
+  "adminCenter": "Centro de administração",
+  "settings": "Configurações",
+  "deleteAccount": "Excluir Conta",
+  "logOut": "Sair",
+  "notificationsDrawer": {
+    "read": "Notificações lidas",
+    "unread": "Notificações não lidas",
+    "markAsRead": "Marcar como lido",
+    "readAndJoin": "Ler e participar",
+    "accept": "Aceitar",
+    "acceptAndJoin": "Aceitar e participar",
+    "noNotifications": "Sem notificações"
+  }
+}

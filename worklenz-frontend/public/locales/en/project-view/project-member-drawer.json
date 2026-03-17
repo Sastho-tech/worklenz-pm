@@ -1,0 +1,11 @@
+{
+  "title": "Share Project",
+  "searchLabel": "Add members by adding their name or email",
+  "searchPlaceholder": "Type name or email",
+  "inviteAsAMember": "Invite as a member",
+  "inviteNewMemberByEmail": "Invite new member by email",
+  "members": "Members",
+  "copyProjectLink": "Copy project link",
+  "inviteMember": "Invite Member",
+  "alsoInviteToProject": "Also invite to project"
+}

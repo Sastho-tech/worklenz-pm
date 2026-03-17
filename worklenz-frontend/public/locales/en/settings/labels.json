@@ -1,0 +1,15 @@
+{
+  "labelColumn": "Label",
+  "deleteConfirmationTitle": "Are you sure?",
+  "deleteConfirmationOk": "Yes",
+  "deleteConfirmationCancel": "Cancel",
+  "associatedTaskColumn": "Associated Task Count",
+  "searchPlaceholder": "Search by name",
+  "emptyText": "Labels can be created while updating or creating tasks.",
+  "pinTooltip": "Click to pin this into the main menu",
+  "colorChangeTooltip": "Click to change color",
+  "pageTitle": "Manage Labels",
+  "deleteConfirmTitle": "Are you sure you want to delete this?",
+  "deleteButton": "Delete",
+  "cancelButton": "Cancel"
+}
