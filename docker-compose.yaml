@@ -152,6 +152,7 @@ services:
 
   # Backend API
   backend:
+    image: ghcr.io/sastho-tech/worklenz_backend:latest
     build:
       context: ./worklenz-backend
       dockerfile: Dockerfile
@@ -258,6 +259,7 @@ services:
 
   # Frontend Application
   frontend:
+    image: ghcr.io/sastho-tech/worklenz_frontend:latest
     build:
       context: ./worklenz-frontend
       dockerfile: Dockerfile

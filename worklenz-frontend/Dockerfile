@@ -63,7 +63,7 @@ COPY --chown=worklenz:worklenz <<'EOF' /app/env-config.sh
 cat > /app/build/env-config.js << ENVEOF
 window.VITE_API_URL = "${VITE_API_URL}";
 window.VITE_SOCKET_URL = "${VITE_SOCKET_URL}";
-window.VITE_APP_TITLE = "${VITE_APP_TITLE:-Worklenz}";
+window.VITE_APP_TITLE = "${VITE_APP_TITLE:-SasthoTech}";
 window.VITE_APP_ENV = "${VITE_APP_ENV:-production}";
 window.VITE_ENABLE_RECAPTCHA = "${VITE_ENABLE_RECAPTCHA:-false}";
 window.VITE_RECAPTCHA_SITE_KEY = "${VITE_RECAPTCHA_SITE_KEY:-}";
