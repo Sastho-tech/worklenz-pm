@@ -153,9 +153,6 @@ services:
   # Backend API
   backend:
     image: ghcr.io/sastho-tech/worklenz_backend:latest
-    build:
-      context: ./worklenz-backend
-      dockerfile: Dockerfile
     container_name: worklenz-backend
     restart: unless-stopped
     depends_on:
@@ -260,9 +257,6 @@ services:
   # Frontend Application
   frontend:
     image: ghcr.io/sastho-tech/worklenz_frontend:latest
-    build:
-      context: ./worklenz-frontend
-      dockerfile: Dockerfile
     container_name: worklenz-frontend
     restart: unless-stopped
     depends_on:
